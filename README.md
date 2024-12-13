@@ -6,7 +6,7 @@ CS2 Server Manager is a web-based management tool for your Counter-Strike 2 (CS2
 
 - **Change Local Map**: Easily switch between local maps.
 - **Change Workshop Map**: Switch to a map from your Steam Workshop collection.
-- **Quick Commands**
+- **Quick Commands**: [Wiki](https://github.com/ParadoxLeon/cs2-server-manager/wiki/Quick-Commands)
 - **Send Custom Commands**: Execute any console command on your server.
 
 ## Installation
