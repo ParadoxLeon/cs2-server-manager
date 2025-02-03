@@ -13,7 +13,7 @@ CS2 Server Manager is a web-based management tool for your Counter-Strike 2 (CS2
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/cs2-server-manager.git
+    git clone https://github.com/ParadoxLeon/cs2-server-manager.git
     ```
 2. Install the required dependencies:
 
